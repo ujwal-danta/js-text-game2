@@ -1,1 +1,1 @@
-This game is a part of our team project in Imagine Hacks
+This game is a part of our team project in Imagine Hacks (This is the 2nd version of the game)
