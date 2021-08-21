@@ -86,7 +86,7 @@ const textNodes = [
     text: 'Your food has arrived!!! The delivery guy is at your door step . You rush to the door',
     options: [
       {
-        text: 'Are you forgetting something ?. Think again.... < Hint : A word starting with M :) > . After you are done thinking CLICK ME!!! ',
+        text: 'Are you forgetting to wear something ?. Think again.... < Hint : A word starting with M :) > . After you are done thinking CLICK ME!!! ',
         nextText: 7
       }
     ]
